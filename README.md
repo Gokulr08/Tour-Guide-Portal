@@ -29,8 +29,5 @@ TCS-iON-TourBuddy-Online-Tour-Guide is a web-based portal developed as part of t
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, please submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 🌟 Feel free to explore, contribute, and enjoy your virtual tour with TourBuddy! 🌟
