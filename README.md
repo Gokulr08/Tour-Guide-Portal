@@ -1,19 +1,34 @@
-******Tour Guide Portal******
+# TCS-iON-TourBuddy-Online-Tour-Guide
 
-This is a web application for a tour guide portal. It allows users to search for tourist destinations and view details about them.
+TCS-iON-TourBuddy-Online-Tour-Guide is a web-based portal developed as part of the TCS iON remote internship. It serves as an Online Tour Guide, assisting domestic tourists in exploring new cities. The portal is built using HTML, CSS, PHP, and SQL and is designed to be deployed using XAMPP, providing personalized tourist information based on users' starting and ending locations.
 
-***Installation***
+## Features
 
-* Clone the repository to your local machine using git clone https://github.com/Gokulr08/TCS-REMOTE-INTERNSHIP-Tour-Guide-Portal
-* Copy the files to your web server's htdocs directory.
-* Import the customers_db.sql and places_db.sql files into your MySQL database. You can do this using phpMyAdmin or the MySQL command line tool.
-* Update the database connection settings in config.php to match your MySQL server's settings.
+- User-friendly interface for easy navigation.
+- Customized tourist information based on starting and ending locations.
+- Dynamic dropdowns to select starting and ending places.
+- Information retrieval from the database based on user selection.
 
-**Usage**
+## Installation and Setup
 
-* Start your web server (e.g. XAMPP).
-* Open your web browser and navigate to http://localhost/tour-guide-portal/ to open the home page.
+1. Clone this repository to the `htdocs` directory of your XAMPP installation.
+2. Set up a local development environment using XAMPP with Apache and MySQL services.
+3. Import the provided SQL database file to set up the necessary data structure.
+4. Configure the database connection in the PHP files.
+5. Start Apache and MySQL services in XAMPP.
+6. Access the application through your web browser using the appropriate URL.
 
-**Contributing**
+## Technologies Used
 
-Contributions are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
+- HTML
+- CSS
+- PHP
+- SQL
+
+## Contributions
+
+Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, please submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
